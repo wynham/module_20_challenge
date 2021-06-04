@@ -54,24 +54,24 @@ contract JointSavings {
 
 ## Examples
 
-#### This first image shows the layout of the streamlit application.
+#### This first shows the Remix IDE after we define the addresses for the joint account.
 
-![streamlit layout](./readme_images/mod19_1.png)
-
-
-#### Customer's address balance and history on Etherscan.
-
-![customer](./readme_images/mod19_2.png)
+![define addresses](./Execution_Results/define_addresses.png)
 
 
-#### Transaction details on Etherscan.
+#### In this image, we see the total Ether smart contract balance (in wei) after depositing 16 ether into the smart contract.
 
-![transaction](./readme_images/mod19_3.png)
+![ether](./Execution_Results/deposit_5_ether.png)
 
 
-#### Recipient’s (fintech professional) address balance and history on Etherscan.
+#### Here we see a transaction where we withdraw 10 ether into account 2.
 
-![recipient](./readme_images/mod19_4.png)
+![transaction](./Execution_Results/withdraw_account_2.png)
+
+
+#### This final image shows a list of the transactions in the Remix IDE.
+
+![recipient](./Execution_Results/transaction_list.png)
 
 
 ---
